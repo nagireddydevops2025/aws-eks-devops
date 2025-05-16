@@ -11,7 +11,7 @@
 - GitHub Repsitory used for Demo: [aws-eks-devops](https://github.com/stacksimplify/aws-eks-devops)  
 
 ### We are going to implement the following AWS EKS DevOps Pipeline
-![AWS EKS DevOps Pipeline](../images/aws-eks-devops-pipeline.png)
+![AWS EKS DevOps Pipeline](https://github.com/stacksimplify/aws-eks-kubernetes-masterclass/blob/master/images/aws-eks-devops-pipeline.png)
 
 
 ## Step-02: What are we going to learn?
